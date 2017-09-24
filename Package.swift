@@ -1,8 +1,7 @@
-//
-//  Package.swift
-//  
-//
-//  Created by Amelia Boli on 9/23/17.
-//
+// swift-tools-version:3.1
 
-import Foundation
+import PackageDescription
+
+let package = Package(
+    name: "StatusBotWebApp"
+)
